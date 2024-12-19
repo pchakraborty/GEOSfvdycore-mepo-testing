@@ -41,12 +41,12 @@ FMS:
 FVdycoreCubed_GridComp:
   local: ./src/Components/@FVdycoreCubed_GridComp
   remote: https://github.com/GEOS-ESM/FVdycoreCubed_GridComp.git
-  tag: v2.12.0
+  branch: develop
   develop: develop
 
 fvdycore:
   local: ./src/Components/@FVdycoreCubed_GridComp/@fvdycore
   remote: https://github.com/GEOS-ESM/GFDL_atmos_cubed_sphere.git
-  tag: geos/v2.9.1
+  branch: geos/develop
   develop: geos/develop
 
