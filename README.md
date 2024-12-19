@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This fixture's `components.yaml` does not contain MAPL, and as such will not build and is unusable. It is used for testing `mepo`.
+
 # Cubed-sphere finite-volume dynamical core fixture
 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/GEOS-ESM/GEOSfvdycore/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/GEOS-ESM/GEOSfvdycore/tree/main)
